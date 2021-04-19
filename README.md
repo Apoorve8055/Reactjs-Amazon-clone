@@ -1,3 +1,5 @@
+<img src="http://pngimg.com/uploads/amazon/amazon_PNG13.png" align="center"/>
+
 # Reactjs Amazon Clone
 
 It is a desktop version web app that tries to imitate of amazon site, you can add items to the Cart, delete them, and have your user authentification using Firebase. 
@@ -30,4 +32,5 @@ That's it. You're done.
 <img  src="https://github.com/Apoorve8055/Reactjs-Amazon-clone/raw/main/Screenshots/5.png"/>
 <img  src="https://github.com/Apoorve8055/Reactjs-Amazon-clone/raw/main/Screenshots/6.png"/>
 <img  src="https://github.com/Apoorve8055/Reactjs-Amazon-clone/raw/main/Screenshots/7.png"/>
+
 ***Thank You!***
